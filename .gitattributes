@@ -1,0 +1,12 @@
+public/* linguist-vendored
+node_modules/* linguist-vendored
+*.sh text eol=lf
+* text=auto
+*.py linguist-detectable
+*.jpeg binary
+
+*.json linguist-detectable=false
+
+*.min.js linguist-generated   
+
+public/*.html linguist-vendored
