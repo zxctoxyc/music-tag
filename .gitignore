@@ -1,0 +1,4 @@
+venv/
+*.py[cod]
+dist/
+.mypy_cache/
